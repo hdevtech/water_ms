@@ -1,10 +1,13 @@
 ### WATER MANAGENT SYSTEM (Water Ms)
-To run this project you need to have the following 
+To run this project you need to have the following
+``` 
     1. Xampp installed 
     2. databse server installed (Mysql)
     3. Import /db/water_ms.sql sql file in the water_ms database
     4. Test credentials : email:admin@gmail.com, password : 123
     5. in the app_settings.php 
+```
+
 ```php
     class AppSettings
     {
